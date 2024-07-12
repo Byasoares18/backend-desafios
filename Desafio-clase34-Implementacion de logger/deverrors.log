@@ -1,0 +1,31 @@
+{"level":"http","message":"[GET] /api/mocking/loggertest - 11:03:14"}
+{"level":"fatal","message":"FATAL"}
+{"level":"error","message":"ERROR"}
+{"level":"warning","message":"WARNING"}
+{"level":"info","message":"INFO"}
+{"level":"http","message":"HTTP"}
+{"level":"debug","message":"DEBUG"}
+{"level":"http","message":"[GET] /api/mocking/loggertest - 11:03:31"}
+{"level":"fatal","message":"FATAL"}
+{"level":"error","message":"ERROR"}
+{"level":"warning","message":"WARNING"}
+{"level":"info","message":"INFO"}
+{"level":"http","message":"HTTP"}
+{"level":"debug","message":"DEBUG"}
+{"level":"http","message":"[GET] /api/mocking/loggertest - 11:03:44"}
+{"level":"fatal","message":"FATAL"}
+{"level":"error","message":"ERROR"}
+{"level":"warning","message":"WARNING"}
+{"level":"info","message":"INFO"}
+{"level":"http","message":"HTTP"}
+{"level":"debug","message":"DEBUG"}
+{"level":"info","message":"dev"}
+{"level":"http","message":"[GET] /api/mocking/loggertest - 11:04:57"}
+{"level":"fatal","message":"FATAL"}
+{"level":"error","message":"ERROR"}
+{"level":"warning","message":"WARNING"}
+{"level":"info","message":"INFO"}
+{"level":"http","message":"HTTP"}
+{"level":"debug","message":"DEBUG"}
+{"level":"info","message":"dev"}
+{"level":"info","message":"dev"}
