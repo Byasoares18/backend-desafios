@@ -29,3 +29,6 @@
 {"level":"debug","message":"DEBUG"}
 {"level":"info","message":"dev"}
 {"level":"info","message":"dev"}
+{"level":"http","message":"[GET] /home - 22:54:10"}
+{"level":"http","message":"[GET] /home/login - 22:54:10"}
+{"level":"http","message":"[GET] /favicon.ico - 22:54:10"}
